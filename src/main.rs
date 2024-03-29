@@ -1,3 +1,5 @@
+#![warn(clippy::all, clippy::pedantic)]
+
 use bracket_lib::prelude::*;
 
 enum GameMode {
